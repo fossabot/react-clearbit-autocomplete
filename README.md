@@ -1,4 +1,6 @@
 # react-clearbit-autocomplete
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fchintan9%2Freact-clearbit-autocomplete.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fchintan9%2Freact-clearbit-autocomplete?ref=badge_shield)
+
 
 A simple React input component that will autocomplete company names, logos, and domains from the [Clearbit Autocomplete API](http://blog.clearbit.com/company-autocomplete-api/). Useful in all types of user registration flows.
 
@@ -122,3 +124,6 @@ THE SOFTWARE.
 
 Copyright (c) 2017 Chris Nixon.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fchintan9%2Freact-clearbit-autocomplete.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fchintan9%2Freact-clearbit-autocomplete?ref=badge_large)
